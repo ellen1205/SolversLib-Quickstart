@@ -25,7 +25,8 @@ import org.firstinspires.ftc.robotcore.external.Telemetry.Item;
  * Remove or comment out the @Disabled line to add this OpMode to the Driver Station OpMode list
  */
 
-@TeleOp(name="Basic: Iterative OpMode", group="Iterative OpMode")
+//@TeleOp(name="Basic: Iterative OpMode", group="Iterative OpMode")
+@Disabled
 public class HelloWorld extends  OpMode{
 
     // Declare OpMode members.
